@@ -1,4 +1,9 @@
 ## Hi there 👋
+Planned projects:
+Write a binutil in rust
+rustBCD: An alternative to EasyBCD windows only
+A package list manager for arch linux
+
 
 <!--
 **Darkness-Monarch/Darkness-Monarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
