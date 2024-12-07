@@ -1,8 +1,8 @@
 ## Hi there 👋
 Planned projects:
-Write a binutil in rust
-rustBCD: An alternative to EasyBCD windows only
-A package list manager for arch linux
+- Write a binutil in rust
+- rustBCD: An alternative to EasyBCD windows only
+- A package list manager for arch linux
 
 
 <!--
